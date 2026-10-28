@@ -26,3 +26,4 @@ the root of the project. After running, you will find the new generated `*.pb.go
 
 This project uses [golangci-lint](https://github.com/golangci/golangci-lint) to lint code. These standards are enforced 
 automatically in the CI pipeline.
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=DEV_GUIDE.md
